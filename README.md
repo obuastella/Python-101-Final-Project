@@ -1,2 +1,2 @@
 # Python-101-Final-Project
-This is Rock, Paper Scissors Project.
+This is my Rock, Paper Scissors Project.
